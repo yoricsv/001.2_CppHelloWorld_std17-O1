@@ -1,6 +1,6 @@
 # <p align = center><b>001_2_CppHelloWorld_std17-O1<b></p>
 
-## To optimize the "Hello, World!" app in this project use the function of stdio.h C library with checking the output of `printf`.
+## To optimize the "Hello, World!" app in this project use the function from stdio.h library with checking the output of `printf`.
 
 > ***NOTE***: Difference between `std::cout` and `printf()`:</br>
 > Especially for C language PRINTF() returns:
